@@ -1,7 +1,7 @@
 
 <?php
 if (!defined('BASE_URL')) {
-    define('BASE_URL', '/tastify-foodspot');
+    define('BASE_URL', '');
 }
 ?>
 
